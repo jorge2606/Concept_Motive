@@ -209,5 +209,18 @@
         }
       }
     ]
+  },
+  "persons": {
+    "items": 
+      [
+        {
+          "description": "Person 1",
+          "value": "person1"
+        },
+        {
+          "description": "Person 2",
+          "value": "person2"
+        } 
+      ]
   }
 }
