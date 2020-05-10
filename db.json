@@ -1,38 +1,213 @@
 {
-    "motives": {
-        "items": [
+  "motives": {
+    "items": [
+      {
+        "description": "Beneficio",
+        "value": "beneficio",
+        "concepts": {
+          "items": [
             {
-                "description": "motives 1",
-                "value": "motive1"
+              "description": "Alojamiento",
+              "value": "alojamiento",
+              "type": 1
             },
             {
-                "description": "motive 2",
-                "value": "motive2"
+              "description": "Guardería",
+              "value": "guarderia",
+              "type": 1
             },
             {
-                "description": "motive 3",
-                "value": "motive3"
+              "description": "Refrigerio",
+              "value": "Refrigerio",
+              "type": 1
             },
             {
-                "description": "motive 4",
-                "value": "motive4"
+              "description": "Estacionamiento",
+              "value": "estacionamiento",
+              "type": 1
+            },
+            {
+              "description": "Beneficio Fit",
+              "value": "beneficio_fit",
+              "type": 1
+            },
+            {
+              "description": "Capacitación",
+              "value": "capacitacion",
+              "type": 1
+            },
+            {
+              "description": "Peaje",
+              "value": "peaje",
+              "type": 1
+            },
+            {
+              "description": "Almuerzo",
+              "value": "almuerzo",
+              "type": 2
+            },
+            {
+              "description": "Cena",
+              "value": "cena",
+              "type": 2
             }
-        ]
-    },
-    "concepts": {
-        "items": [
+          ]
+        }
+      },
+      {
+        "description": "Capacitación",
+        "value": "capacitacion",
+        "concepts": {
+          "items": [
             {
-                "description": "concept 1",
-                "value": "concepts1"
+              "description": "Peaje",
+              "value": "peaje",
+              "type": 1
             },
             {
-                "description": "concept 2",
-                "value": "concept2"
+              "description": "Estacionamiento",
+              "value": "estacionamiento",
+              "type": 1
             },
             {
-                "description": "concept 3",
-                "value": "concept3"
+              "description": "Almuerzo",
+              "value": "almuerzo",
+              "type": 2
+            },
+            {
+              "description": "Cena",
+              "value": "cena",
+              "type": 2
             }
-        ]
-    }
+          ]
+        }
+      },
+      {
+        "description": "Evaluación de terreno",
+        "value": "evaluacion_de_terreno",
+        "concepts": {
+          "items": [
+            {
+              "description": "Peaje",
+              "value": "peaje",
+              "type": 1
+            },
+            {
+              "description": "Estacionamiento",
+              "value": "estacionamiento",
+              "type": 1
+            }
+          ]
+        }
+      },
+      {
+        "description": "Otras reuniones",
+        "value": "otras_reuniones",
+        "concepts": {
+          "items": [
+            {
+              "description": "Peaje",
+              "value": "peaje",
+              "type": 1
+            },
+            {
+              "description": "Estacionamiento",
+              "value": "estacionamiento",
+              "type": 1
+            }
+          ]
+        }
+      },
+      {
+        "description": "Visita de cobranza",
+        "value": "visita_de_cobranza",
+        "concepts": {
+          "items": [
+            {
+              "description": "Peaje",
+              "value": "peaje",
+              "type": 1
+            },
+            {
+              "description": "Estacionamiento",
+              "value": "estacionamiento",
+              "type": 1
+            }
+          ]
+        }
+      },
+      {
+        "description": "Reunión mensual",
+        "value": "reunion_mensual",
+        "concepts": {
+          "items": [
+            {
+              "description": "Peaje",
+              "value": "peaje",
+              "type": 1
+            },
+            {
+              "description": "Estacionamiento",
+              "value": "estacionamiento",
+              "type": 1
+            }
+          ]
+        }
+      },
+      {
+        "description": "Traspaso de cartera",
+        "value": "traspaso_de_cartera",
+        "concepts": {
+          "items": [
+            {
+              "description": "Peaje",
+              "value": "peaje",
+              "type": 1
+            },
+            {
+              "description": "Estacionamiento",
+              "value": "estacionamiento",
+              "type": 1
+            }
+          ]
+        }
+      },
+      {
+        "description": "Visita a sucursal",
+        "value": "visita_a_sucursal",
+        "concepts": {
+          "items": [
+            {
+              "description": "Peaje",
+              "value": "peaje",
+              "type": 1
+            },
+            {
+              "description": "Estacionamiento",
+              "value": "estacionamiento",
+              "type": 1
+            }
+          ]
+        }
+      },
+      {
+        "description": "Visita de campaña",
+        "value": "visita_de_campaña",
+        "concepts": {
+          "items": [
+            {
+              "description": "Peaje",
+              "value": "peaje",
+              "type": 1
+            },
+            {
+              "description": "Estacionamiento",
+              "value": "estacionamiento",
+              "type": 1
+            }
+          ]
+        }
+      }
+    ]
+  }
 }
