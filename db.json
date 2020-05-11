@@ -7,6 +7,11 @@
         "concepts": {
           "items": [
             {
+              "description": "",
+              "value": "nothing_selected",
+              "type": null
+            },
+            {
               "description": "Alojamiento",
               "value": "alojamiento",
               "type": 1
@@ -59,6 +64,11 @@
         "value": "capacitacion",
         "concepts": {
           "items": [
+            {
+              "description": "",
+              "value": "nothing_selected",
+              "type": null
+            },
             {
               "description": "Peaje",
               "value": "peaje",
