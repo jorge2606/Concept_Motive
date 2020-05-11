@@ -1,16 +1,18 @@
 {
   "motives": {
     "items": [
+      {              
+        "description": "Seleccione un motivo",
+        "value": "nothing_selected",
+        "concepts": {
+          "items": []
+        }
+      },
       {
         "description": "Beneficio",
         "value": "beneficio",
         "concepts": {
           "items": [
-            {
-              "description": "",
-              "value": "nothing_selected",
-              "type": null
-            },
             {
               "description": "Alojamiento",
               "value": "alojamiento",
@@ -64,11 +66,6 @@
         "value": "capacitacion",
         "concepts": {
           "items": [
-            {
-              "description": "",
-              "value": "nothing_selected",
-              "type": null
-            },
             {
               "description": "Peaje",
               "value": "peaje",
